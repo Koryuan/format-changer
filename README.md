@@ -1,5 +1,8 @@
 A project used to test format changer in python
+
 Currently only can change webp to gif or png
+
+Python version used >= 3.11
 
 References/Tutorial used:
 - https://www.pycodemates.com/2023/10/webp-to-png-conversion-using-python.html
